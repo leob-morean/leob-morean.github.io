@@ -1,0 +1,118 @@
+{
+	"connectionCheckUrl":"https://www.google.com/",
+	"deprecations":{},
+	"generationTimestamp":"2024-03-18T19:05:25Z",
+	"id":"default",
+	"plugins":{
+		"sonatype-jenkins-plugin":{
+			"buildDate":"Mar 12, 2024",
+			"defaultBranch":"main",
+			"dependencies":[],
+			"developers":[
+				{
+					"developerId":"juani",
+					"name":"Juan Manuel Fabbri"
+				},
+				{
+					"developerId":"lbrambilla",
+					"name":"Leonardo Brambilla"
+				}
+			],
+			"excerpt":"The Sonatype Jenkins Plugin",
+			"gav":"org.sonatype.nexus.ci:nexus-jenkins-plugin:3.19.3-01",
+			"labels":[],
+			"name":"sonatype-jenkins-plugin",
+			"popularity":270639,
+			"previousTimestamp":"2024-03-13T16:22:05.00Z",
+			"previousVersion":"1342.v046651d5b_dfe",
+			"releaseTimestamp":"2024-03-12T18:09:10.00Z",
+			"requiredCore":"1.398",
+			"scm":"https://github.com/jenkinsci/nexus-platform-plugin",
+			"sha1":"yEUXC3mITYfytzKZhjiLFjVE38w=",
+			"size":25028855,
+			"title":"Sonatype Jenkins plugin",
+			"url":"https://download.sonatype.com/integrations/jenkins/nexus-jenkins-plugin-3.19.3-01.hpi",
+			"version":"3.19.3",
+			"wiki":"https://help.sonatype.com/en/download-and-compatibility.html"
+		},
+		"workflow-job":{
+			"buildDate":"Mar 12, 2024",
+			"defaultBranch":"main",
+			"dependencies":[],
+			"developers":[
+				{
+					"developerId":"jglick",
+					"name":"Jesse Glick"
+				},
+				{
+					"developerId":"kohsuke",
+					"name":"Kohsuke Kawaguchi"
+				},
+				{
+					"developerId":"abayer",
+					"name":"Andrew Bayer"
+				},
+				{
+					"developerId":"svanoort",
+					"name":"Sam Van Oort"
+				},
+				{
+					"developerId":"dnusbaum",
+					"name":"Devin Nusbaum"
+				},
+				{
+					"developerId":"rsandell",
+					"name":"rsandell"
+				},
+				{
+					"developerId":"carroll",
+					"name":"Carroll Chiou"
+				},
+				{
+					"developerId":"bitwiseman",
+					"name":"Liam Newman"
+				},
+				{
+					"developerId":"kshultz",
+					"name":"Karl Shultz"
+				},
+				{
+					"developerId":"jtaboada",
+					"name":"Jose Blas Camacho Taboada"
+				},
+				{
+					"developerId":"olamy",
+					"name":"Olivier Lamy"
+				}
+			],
+			"excerpt":"The Jenkins Plugins Parent POM Project",
+			"gav":"org.jenkins-ci.plugins.workflow:workflow-job:1360.vc6700e3136f5",
+			"labels":[],
+			"name":"workflow-job",
+			"popularity":270639,
+			"previousTimestamp":"2024-03-13T16:22:05.00Z",
+			"previousVersion":"1342.v046651d5b_dfe",
+			"releaseTimestamp":"2024-03-12T18:09:10.00Z",
+			"requiredCore":"1.398",
+			"scm":"https://github.com/jenkinsci/workflow-job-plugin",
+			"sha1":"aza0kBAzYbNoA1PBuX9EbcV0g9g=",
+			"sha256":"ZtbBJZbuAUDgBBa+9mxZkCmj0qhuH02nx8CbrbhqChA=",
+			"size":143260,
+			"title":"Pipeline: Job",
+			"url":"http://localhost:8888/download/plugins/workflow-job/1360.vc6700e3136f5/workflow-job.hpi",
+			"version":"1360.vc6700e3136f5",
+			"wiki":"https://plugins.jenkins.io/workflow-job"
+		}
+	},
+	"signature":{
+		"certificates":[
+			"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"
+		],
+		"correct_digest":"q/EvzY5Vj7cyl+jD1qDWfIlr970=",
+		"correct_digest512":"e6317db54c5a011c5d7e90551caa86e6c3169672c1bcdd126186c8410d588b41ad49397fd5e02727cbdaaf0414e63f4e17ad2175f665aafe0384fc7529127f4e",
+		"correct_signature":"HAo3aXhVaH5IrUX9jPt2coDbqQGv2K7zd4NUqNDRkeQNP5nkHpkpZNg6pJR4edVZWNuRqKXw61U1HsyISlhoUmBdh3h+YyZITVl94xeQ9Pw5WJ08vo+NJz3cOgOAozNmGrNiqp13nN6G5rqKgxWroEGyH7O54ScWMei6mT0KhTSDZCluJNz5ABhYLgLEY35MwcksiMxwvz0+/7x4IwE426dKT156SslLom7tedukWKzkTitVQ4fXH1iB68k9YbZxQtqUZZ5Bh8PzOUA31epGe66s6lPZNckijkmZcDiqBr67MCPI2vOYW9RSau+Imer/PnhoEyvy+TbmbMGaPpq1yOhRYHwV+SH6fKd2vqeUXOst2KszrLxpl8RstGvgkTa8A2I4Mu60I4Xw/s71ia+TKi9q5SD/MfIvwwJEr/1OpcSJ+20Pv0MP2Ky+Dx+J/tnBUY5bGMZypNEv8eWXEqHLgDmKpsyndrBttQFuxZOJKwF7FjcmFYca8xSowkyg3hbUk0CVGBEEnVu9C+fagZ5ZbEo5i1f920a4srovXrUyQpnienpLc9EFBowrGokjFSmc54WQhgAD2TBQmCCuEyPTRIG+DQJA+hpBhMs+wFRc7DNfmw8cTklEod4KLtutbeiKIrVoSDfGYQBpFCtqP7mH24xrEXWA332Ams5cwbKi+jo=",
+		"correct_signature512":"20e09768eaa8f2df919d50fc5129002cf6b73cf805284ee9eb4484981c45a9c63ef8e1d4439b47d3024de0ef0158fe7ae1de77acd32f98dd7516b7b56af9dd4c89975ebfcb3ed0c56d949752dc52cf54ed946e76f5c98335eae8a6ca7abca25d11d3c1497fdb135caf191f77f0cce42b9ce807970cc420834ab5543bb9e4552d2fa4934f52026f3a96cd6e26b7fcf6decaaedb5c730cc8053bdf15a8bcac361a411a2835e9c3122f6622ec72250ffd4aacb96dc7c1d4ea40abc85f6d2a0a2581a8125a5b0e4331d29454ec9fc77b32ff176e93aa4b4d70b10d34f60e7d5828735949285d629b9398516199e1f56a72f1132043be690441d5da1c4a2ba175cee2ba11f5334f716ec70b91e2ca000e807bd3decffc0ee856fd691d0341e0dff0163db6a68a4869ade2aada44c2f23259da757b8d7bdedfc7861706596c5f04439778514adcce24bdaffbeb0adf8b252b5ca653c106ec73a057a965f831e4f2bc20ed8c65464ea8c44f53680da843056f7fbda7db1dcde64598e3a0da734b1faedfa8d81d0d120d4914f187c91b10fda616919a6832fb123f7787062a55edc17308fe38264427a421f88c29db6f16eb10831693bc931369b815a9e254af6a78b02253a51c9fe787ffbf1ce5777a7dc20b09465ac873201686093069a226a5d17f5ad3c1a7c94ed59118402eb2cf69f90e60ef550ad13a15aec0efbe7471db608863"
+	},
+	"updateCenterVersion":"1",
+	"warnings":[]
+}
