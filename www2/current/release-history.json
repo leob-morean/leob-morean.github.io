@@ -1,0 +1,17 @@
+{
+	"releaseHistory":[
+		{
+			"date":"Nov 08, 2023",
+			"releases":[
+				{
+					"firstRelease":true,
+					"gav":"org.sonatype.nexus.ci:nexus-jenkins-plugin:3.18.1-01",
+					"latestRelease":true,
+					"timestamp":1699463875827,
+					"url":"https://plugins.jenkins.io/nexus-jenkins-plugin",
+					"version":"3.18.1-01"
+				}
+			]
+		}
+	]
+}

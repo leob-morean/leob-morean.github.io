@@ -1,0 +1,4 @@
+# GENERATED. DO NOT MODIFY.
+RewriteEngine on
+RewriteRule ^nexus-jenkins-plugin\.hpi$ /download/plugins/nexus-jenkins-plugin/3.18.1-01/nexus-jenkins-plugin.hpi [R=302,L]
+RewriteRule ^jenkins\.war$ /download/war/2.426.1/jenkins.war [R=302,L]

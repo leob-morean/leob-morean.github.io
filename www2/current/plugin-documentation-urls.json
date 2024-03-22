@@ -1,0 +1,7 @@
+{
+	
+		"nexus-jenkins-plugin":{
+			"url":"https://github.com/jenkinsci/nexus-platform-plugin"
+		}
+	
+}
