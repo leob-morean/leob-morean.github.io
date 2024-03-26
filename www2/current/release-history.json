@@ -6,10 +6,21 @@
 				{
 					"firstRelease":true,
 					"gav":"org.sonatype.nexus.ci:nexus-jenkins-plugin:3.18.1-01",
-					"latestRelease":true,
 					"timestamp":1699463875827,
 					"url":"https://plugins.jenkins.io/nexus-jenkins-plugin",
 					"version":"3.18.1-01"
+				}
+			]
+		},
+		{
+			"date":"Jan 19, 2024",
+			"releases":[
+				{
+					"gav":"org.sonatype.nexus.ci:nexus-jenkins-plugin:3.19.1-01",
+					"latestRelease":true,
+					"timestamp":1705692428068,
+					"url":"https://plugins.jenkins.io/nexus-jenkins-plugin",
+					"version":"3.19.1-01"
 				}
 			]
 		}
